@@ -22,6 +22,17 @@ class ViewController: UIViewController {
          
          */
         
+        //Code 2
+        /*
+         
+         code2
+         codej2
+         code2
+         code2...
+         
+         */
+
+        
     }
 
 
